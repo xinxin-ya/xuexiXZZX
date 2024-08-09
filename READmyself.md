@@ -1,2 +1,0 @@
-# xuexiXZZX
-COPY、LEARN and MODIFY XZZX code.
